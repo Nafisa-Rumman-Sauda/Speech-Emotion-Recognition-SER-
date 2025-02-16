@@ -20,6 +20,7 @@ This project implements a **Speech Emotion Recognition (SER)** system using mach
 - The **RAVDESS dataset** consists of **7356 audio files**, with emotional speech and song recordings from **24 professional actors** (12 males and 12 females).
 - Emotions: Happy, Sad, Calm, Angry, Fearful, Surprise, Disgust, etc.
 - The dataset contains both **speech** and **song** recordings.
+  ![Image](https://github.com/user-attachments/assets/ea51a248-07c9-44ff-9c32-1e217303b733)
 
 ## Installation
 1. Clone the repository:
@@ -68,7 +69,15 @@ This project implements a **Speech Emotion Recognition (SER)** system using mach
 ## Results
 - **Accuracy**: The system achieves **86.32%** accuracy for emotion recognition from speech.
 - **Real-Time Recognition**: The model supports real-time speech emotion recognition using a microphone.
+- 
+![Image](https://github.com/user-attachments/assets/b12b643b-a527-4497-8f1a-175426552b6c)
+
 - **Pre-Recorded Audio**: Emotion prediction can also be done from pre-recorded audio files.
+
+ ![Image](https://github.com/user-attachments/assets/26e8ea02-1627-45a4-8a53-eee8360b8a12)
+
+![Image](https://github.com/user-attachments/assets/85938577-1e5d-47ba-8849-b2bc59d43ce4)
+
 
 | **Dataset/Technique** | **Accuracy** |
 |-----------------------|--------------|
@@ -77,6 +86,10 @@ This project implements a **Speech Emotion Recognition (SER)** system using mach
 | GAN                   | 46.52%       |
 | SVM                   | 60.8%        |
 | RAVDESS with MLP      | **86.32%**   |
+
+![Image](https://github.com/user-attachments/assets/061e2d6d-ca3c-4e69-849d-89dff069c967)
+
+
 
 ## Future Work
 - Expand the dataset to include more emotions and languages.
