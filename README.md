@@ -69,8 +69,12 @@ This project implements a **Speech Emotion Recognition (SER)** system using mach
 ## Results
 - **Accuracy**: The system achieves **86.32%** accuracy for emotion recognition from speech.
 - **Real-Time Recognition**: The model supports real-time speech emotion recognition using a microphone.
-- 
+
+  
 ![Image](https://github.com/user-attachments/assets/b12b643b-a527-4497-8f1a-175426552b6c)
+
+
+
 
 - **Pre-Recorded Audio**: Emotion prediction can also be done from pre-recorded audio files.
 
