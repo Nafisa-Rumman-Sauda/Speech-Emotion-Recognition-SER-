@@ -24,7 +24,7 @@ This project implements a **Speech Emotion Recognition (SER)** system using mach
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/speech-emotion-recognition.git
+   git clone https://[https://github.com/Nafisa-Rumman-Sauda/Speech-Emotion-Recognition-SER-]
    cd speech-emotion-recognition
    ```
 
